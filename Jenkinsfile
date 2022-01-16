@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Finishing'){
             steps {
-                echo 'Finishing...1';
+                echo 'Finishing...12';
             }
         }
     }
